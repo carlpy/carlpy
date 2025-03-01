@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos Zambrano</h1>
 <h3 align="center">A passionate frontend web developer who enjoy making great web apps</h3>
 
-- 🌱 I’m currently learning **React JS and Nextjs**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Vuejs, Js and Node**
+- 💬 Ask me about **Vuejs, JS and Node**
 
 - 📫 How to reach me **cmzambrano35@gmail.com**
 
